@@ -1,4 +1,11 @@
 #7
+
+"""
+
+__author__ = DilLip_Chowdary ❤️ Rayapati
+
+"""
+
 num = input()
 first_digit = int(num[0])
 second_digit = int(num[1])

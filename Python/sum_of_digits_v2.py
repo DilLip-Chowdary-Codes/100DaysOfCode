@@ -1,6 +1,14 @@
 #15 
 
 #version_2
+
+
+"""
+
+__author__ = DilLip_Chowdary ❤️ Rayapati
+
+"""
+
 num = input()
 if len(num) == 1:
     print(int(num))

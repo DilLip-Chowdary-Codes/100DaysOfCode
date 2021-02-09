@@ -1,4 +1,11 @@
 #12
+
+"""
+
+__author__ = DilLip_Chowdary ❤️ Rayapati
+
+"""
+
 time = int(input())
 if time >= 4 and time < 12:
     print("Good Morning")

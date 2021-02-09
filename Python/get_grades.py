@@ -1,4 +1,11 @@
 #10
+
+"""
+
+__author__ = DilLip_Chowdary ❤️ Rayapati
+
+"""
+
 marks = float(input())
 if marks > 85:
     print("A")

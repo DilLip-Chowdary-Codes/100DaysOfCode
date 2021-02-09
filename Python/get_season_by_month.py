@@ -1,4 +1,11 @@
 #11
+
+"""
+
+__author__ = DilLip_Chowdary ❤️ Rayapati
+
+"""
+
 month = int(input())
 if month in (11, 12, 1):
     print("Winter")

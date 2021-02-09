@@ -1,4 +1,10 @@
 #4
+
+"""
+
+__author__ = DilLip_Chowdary ❤️ Rayapati
+
+"""
 num = int(input())
 if num % 6 == 0:
     print("Number is divisible by 6")

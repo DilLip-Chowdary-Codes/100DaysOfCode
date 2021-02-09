@@ -1,4 +1,11 @@
 #13
+
+"""
+
+__author__ = DilLip_Chowdary ❤️ Rayapati
+
+"""
+
 num_of_sides = int(input())
 if num_of_sides < 3:
     print("Not Polygon")
