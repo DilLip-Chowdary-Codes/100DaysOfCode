@@ -4,7 +4,7 @@ This Repo Contains Code snippets i wrote during my #100DaysOfCode
 
 ### Objective
 - To code everyday and push to this repo
-- Not limited to one topic/ program a day , But minimum 1 will be Commited(Posted) Everyday (Currently on EXAMS BREAK 😁 , Will be Back Soon..)
+- Not limited to one topic/ program a day , But minimum 1 will be Commited(Posted) Everyday
 
 ### Languages Covered in this Repo
 - Python
